@@ -1,1 +1,1 @@
-It has all consol reading releted task
+It has all console reading releted task
