@@ -12,11 +12,12 @@ Print the total meal cost,total where  is the rounded integer result of the enti
 ```
 
 # Sample Input
-
+```
 12.00
 20
 8
+```
 # Sample Output
-
+```
 15
-
+```
